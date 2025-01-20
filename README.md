@@ -2,8 +2,7 @@
 workshop 4
 
 As a starting point I used the code as shown in the workshop, once again I ran into the same problem as in the last workshop with getting my image file to work. 
-
-
+![Screen Shot 2025-01-20 at 8 07 36 AM](https://github.com/user-attachments/assets/8413872d-28f9-469d-9d06-33ace6114ac8)
 
 
 So I went to chat gpt to ask for help, to see if it could figure out what was wrong in more detail.
@@ -12,6 +11,7 @@ This did nothing, so I went to my friend who knows about coding to see if they c
 
 I then wanted to try experimenting with a slider function that would change the transparency of each newly generated image after the slider function was used, so that you would be able to control the transparency of different layers of images produced from the pushed button.  At first I used the code provided in the workshop to create the slider, but when I used this in my code my button function stopped working. 
 
+![Screen Shot 2025-01-20 at 10 40 38 PM](https://github.com/user-attachments/assets/c3d43b08-f683-4e40-a819-dc76ba0f43c5)
 
 
 I then went to the p5.js library to find more advice. 
