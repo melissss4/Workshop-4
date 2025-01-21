@@ -3,6 +3,11 @@ workshop 4
 
 Current sketch:https://melissss4.github.io/Workshop-4/ 
 
+Objective:
+Create an interactive p5.js sketch with at least three different kinds of user input events.
+Experiment with ways to record and redeploy inputs from the user.
+
+
 As a starting point I used the code as shown in the workshop, once again I ran into the same problem as in the last workshop with getting my image file to work. 
 ![Screen Shot 2025-01-20 at 8 07 36 AM](https://github.com/user-attachments/assets/8413872d-28f9-469d-9d06-33ace6114ac8)
 
